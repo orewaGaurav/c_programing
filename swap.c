@@ -1,7 +1,7 @@
 #include<stdio.h>
 //call by reference
 
-void swap(int a,int b);
+//void swap(int a,int b);
 void _swap(int *a, int *b);
 
 int main(void){
