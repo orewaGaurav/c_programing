@@ -15,6 +15,8 @@ int main(void){
 
 
     //3rd way
+    //by taking input from the user
+
     char len[100];
     fgets(len,100,stdin);
     int length = strlen(len);
