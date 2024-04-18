@@ -9,6 +9,6 @@ int main(void){
     printf("Enter the value of b\n");
     scanf("%f",&b);
     
-    printf("sum of a and b is:%f",a+b);
+    printf("sum of a and b is:%f\n",a+b);
     
 }
